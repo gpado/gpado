@@ -22,7 +22,7 @@
  
 <div> 
   <a href="https://instagram.com/gpadoveze" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-reis-7343a120b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-padoveze" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://port-rafael-reis.vercel.app" target="_blank"><img align="right" src="https://badgen.net/badge/icon/portifolio?icon=vercel&label" target="_blank"></a> 
 </div>
 
